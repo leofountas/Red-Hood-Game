@@ -700,7 +700,7 @@ GameObject:
   - component: {fileID: 1860089819}
   - component: {fileID: 1860089818}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: playBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
