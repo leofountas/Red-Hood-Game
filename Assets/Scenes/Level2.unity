@@ -870,7 +870,7 @@ GameObject:
   - component: {fileID: 851499226}
   - component: {fileID: 851499225}
   m_Layer: 5
-  m_Name: Tent
+  m_Name: Umbrella
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1058,7 +1058,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5427097065086853293, guid: fe9a0eef90f3de14cadd157cb4618c00, type: 3}
+  m_Sprite: {fileID: 6409874771669429574, guid: 317f88ba3f79f4a46b62b23654161190, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1354,7 +1354,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 13.2, y: 20}
+  m_AnchoredPosition: {x: 20.9, y: 21.8}
   m_SizeDelta: {x: 23.2, y: 79.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1217229420
