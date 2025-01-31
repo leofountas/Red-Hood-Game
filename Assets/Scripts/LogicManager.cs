@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using JetBrains.Annotations;
 
 public class LogicManager : MonoBehaviour
+
 {
     public GameObject gridObject;   // Assign the grid object containing the buttons
     public Sprite[] buttonSprites;  // Assign 4 sprites in the inspector
@@ -11,6 +12,7 @@ public class LogicManager : MonoBehaviour
 
     public Image correctImg;
     public Button nextBtn;
+    public AudioManager audioManager;
 
     void Start()
     {
@@ -39,11 +41,13 @@ public class LogicManager : MonoBehaviour
     private void checkResponse(Button clickedBtn) {
          Image childImage = clickedBtn.transform.Find("Image").GetComponent<Image>();
         if(childImage.sprite == correctImg.sprite) {
-           
+            
            correctImg.gameObject.SetActive(true) ;
+            audioManager.WinSound();
            nextBtn.gameObject.SetActive(true);
         } else {
             Debug.Log("NOOOPE");
+            audioManager.Wrongound();
         }
     }
 }
