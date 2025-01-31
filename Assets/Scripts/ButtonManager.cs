@@ -13,7 +13,7 @@ public class ButtonManager : MonoBehaviour
     void Start()
     {
         
-        if(SceneManager.GetActiveScene().name != "MenuScene") {
+        if(SceneManager.GetActiveScene().name != "MenuScene" && SceneManager.GetActiveScene().name != "EndGameScene") {
             isMuted = PlayerPrefs.GetInt("Muted", 0) == 1;
             AudioListener.volume = isMuted ? 0f : 1f;
             UpdateMuteButton();
@@ -57,7 +57,7 @@ public class ButtonManager : MonoBehaviour
     }
     public void LoadGameEnd()
     {
-        SceneManager.LoadScene("EndScreen");
+        SceneManager.LoadScene("EndGameScene");
     }
 
     public void MuteSound()
