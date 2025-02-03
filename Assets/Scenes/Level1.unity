@@ -650,6 +650,7 @@ MonoBehaviour:
   correctImg: {fileID: 851499225}
   nextBtn: {fileID: 662659025}
   audioManager: {fileID: 1430277489}
+  txtAnimated: {fileID: 1217229420}
 --- !u!4 &539580760
 Transform:
   m_ObjectHideFlags: 0
@@ -1335,7 +1336,7 @@ GameObject:
   - component: {fileID: 1217229421}
   - component: {fileID: 1217229420}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: txtAnimated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -29,6 +29,7 @@ public class ButtonManager : MonoBehaviour
     public void PlayGame()
     {
         SceneManager.LoadScene("Level1");
+        
     }
 
     public void RestartLevel()

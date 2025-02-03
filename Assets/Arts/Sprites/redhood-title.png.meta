@@ -1,10 +1,94 @@
 fileFormatVersion: 2
-guid: d7d019d26e41b854da57ea84992a3668
+guid: 4db4922d961d0304dab3282c8025ed96
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6786328011183558968
-    second: cover-redhood(1)_0
+      213: -7975241592211048444
+    second: redhood-title_0
+  - first:
+      213: -5880368557114040524
+    second: redhood-title_1
+  - first:
+      213: 2411164746512596574
+    second: redhood-title_2
+  - first:
+      213: 5987242645546197561
+    second: redhood-title_3
+  - first:
+      213: 4561130523727249256
+    second: redhood-title_4
+  - first:
+      213: 3843686739231513245
+    second: redhood-title_5
+  - first:
+      213: -7374343097054252291
+    second: redhood-title_6
+  - first:
+      213: 7092508813792510640
+    second: redhood-title_7
+  - first:
+      213: -7693829761970892845
+    second: redhood-title_8
+  - first:
+      213: 2917861642230216894
+    second: redhood-title_9
+  - first:
+      213: -8870180224572595382
+    second: redhood-title_10
+  - first:
+      213: -3558989071051732298
+    second: redhood-title_11
+  - first:
+      213: 5487088523779786329
+    second: redhood-title_12
+  - first:
+      213: -1707939823847046444
+    second: redhood-title_13
+  - first:
+      213: -8244095510811718409
+    second: redhood-title_14
+  - first:
+      213: -1038190787522589962
+    second: redhood-title_15
+  - first:
+      213: -6220261583305574217
+    second: redhood-title_16
+  - first:
+      213: -2590310467897120540
+    second: redhood-title_17
+  - first:
+      213: 8604141244573958304
+    second: redhood-title_18
+  - first:
+      213: 348281411226252711
+    second: redhood-title_19
+  - first:
+      213: -2832054569790454410
+    second: redhood-title_20
+  - first:
+      213: -3667153258605929766
+    second: redhood-title_21
+  - first:
+      213: -9140539731962649821
+    second: redhood-title_22
+  - first:
+      213: 2972216105865892064
+    second: redhood-title_23
+  - first:
+      213: -2936593955741654530
+    second: redhood-title_24
+  - first:
+      213: 8068616903315768306
+    second: redhood-title_25
+  - first:
+      213: 401196972420105867
+    second: redhood-title_26
+  - first:
+      213: -2163221945013798898
+    second: redhood-title_27
+  - first:
+      213: 6958429633724163091
+    second: redhood-title_28
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +197,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cover-redhood(1)_0
+      name: redhood-title_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1125
-        height: 2436
+        width: 996
+        height: 413
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8ceee1c11ae12d1a0800000000000000
-      internalID: -6786328011183558968
+      spriteID: 60857536e875eab45a1e53f3bd0209a4
+      internalID: 887908986
       vertices: []
       indices: 
       edges: []
@@ -138,7 +222,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9304b9a7789137641bf86b5f6977e40a
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +232,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      cover-redhood(1)_0: -6786328011183558968
+      redhood-title_0: 887908986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,91 @@
 fileFormatVersion: 2
-guid: 2251c816691c82a499c89c35d81f1f89
+guid: a3434abe72a06064a9188b90f4ed71aa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6281926542501869455
-    second: end-redhood_0
+      213: -6956060549744401393
+    second: youwin-title_0
+  - first:
+      213: -569760954798093364
+    second: youwin-title_1
+  - first:
+      213: -8019385985551896410
+    second: youwin-title_2
+  - first:
+      213: -1680989333421769111
+    second: youwin-title_3
+  - first:
+      213: -1943968142756256931
+    second: youwin-title_4
+  - first:
+      213: 8077841413141419232
+    second: youwin-title_5
+  - first:
+      213: -2146173607557074505
+    second: youwin-title_6
+  - first:
+      213: 2348666930025061488
+    second: youwin-title_7
+  - first:
+      213: -7818401520435098463
+    second: youwin-title_8
+  - first:
+      213: 2204882683063449809
+    second: youwin-title_9
+  - first:
+      213: 6073903360496412875
+    second: youwin-title_10
+  - first:
+      213: -3978411203925688864
+    second: youwin-title_11
+  - first:
+      213: 6763491630050354636
+    second: youwin-title_12
+  - first:
+      213: 6052591234821845915
+    second: youwin-title_13
+  - first:
+      213: -5736789419100157654
+    second: youwin-title_14
+  - first:
+      213: 6369139883134702018
+    second: youwin-title_15
+  - first:
+      213: -4513688273285677120
+    second: youwin-title_16
+  - first:
+      213: -8711654413146053984
+    second: youwin-title_17
+  - first:
+      213: 651212947073319785
+    second: youwin-title_18
+  - first:
+      213: -5102472247263376043
+    second: youwin-title_19
+  - first:
+      213: -128822361713229838
+    second: youwin-title_20
+  - first:
+      213: -5003363987992195767
+    second: youwin-title_21
+  - first:
+      213: -3484713768693177443
+    second: youwin-title_22
+  - first:
+      213: 4105907690943645706
+    second: youwin-title_23
+  - first:
+      213: -1623150937848378580
+    second: youwin-title_24
+  - first:
+      213: 1004382201931527836
+    second: youwin-title_25
+  - first:
+      213: -6770300402759490046
+    second: youwin-title_26
+  - first:
+      213: 2142360489232494422
+    second: youwin-title_27
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +194,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: end-redhood_0
+      name: youwin-title_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1125
-        height: 2436
+        width: 866
+        height: 389
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f87fbe648e2ed2750800000000000000
-      internalID: 6281926542501869455
+      spriteID: aa36f91b3ff7f5442a97df55f1e8b5d8
+      internalID: 1037747884
       vertices: []
       indices: 
       edges: []
@@ -138,7 +219,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 97e454fb449f7d64a81dbed2c576713e
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +228,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      youwin-title_0: 1037747884
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
