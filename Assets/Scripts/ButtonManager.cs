@@ -17,7 +17,7 @@ public class ButtonManager : MonoBehaviour
             isMuted = PlayerPrefs.GetInt("Muted", 0) == 1;
             AudioListener.volume = isMuted ? 0f : 1f;
             UpdateMuteButton();
-        }
+        } 
    
     }
 

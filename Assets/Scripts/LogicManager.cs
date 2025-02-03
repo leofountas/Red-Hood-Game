@@ -15,10 +15,13 @@ public class LogicManager : MonoBehaviour
     public Button nextBtn;
     public AudioManager audioManager;
     public TextMeshProUGUI  txtAnimated;
+    private Animator questionMark;
 
     void Start()
     {
     //***************************************Buttons Images  Randomize********************************************************************************************//
+        questionMark = GameObject.Find("txtAnimated").GetComponent<Animator>();
+
         buttonsArray = gridObject.GetComponentsInChildren<Button>();
 
         // Convert the sprite array into a List to track available sprites
@@ -48,8 +51,11 @@ public class LogicManager : MonoBehaviour
             correctImg.gameObject.SetActive(true) ;
             audioManager.WinSound();
             nextBtn.gameObject.SetActive(true);
+            foreach (Button btn in buttonsArray) {
+                btn.interactable = false;
+            }
         } else {
-            
+            questionMark.SetTrigger("highlight");
             audioManager.Wrongound();
         }
     }
