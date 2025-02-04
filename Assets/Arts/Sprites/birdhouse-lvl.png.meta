@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a75918d9bd9d1354895e9eff82af9aef
+guid: b1c4557ad9ecb61489fdc0d095a66cc1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5371575931691445940
-    second: birdhouse-lvl_0
+      213: -3379149730030585497
+    second: birdhouse-lvl 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: birdhouse-lvl_0
+      name: birdhouse-lvl 1_0
       rect:
         serializedVersion: 2
         x: 12
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c415e7366245475b0800000000000000
-      internalID: -5371575931691445940
+      spriteID: 7697baa5939da11d0800000000000000
+      internalID: -3379149730030585497
       vertices: []
       indices: 
       edges: []
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      birdhouse-lvl 1_0: -3379149730030585497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

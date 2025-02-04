@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 317f88ba3f79f4a46b62b23654161190
+guid: 9f9b70272406a6947a5ccdbe83868476
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6409874771669429574
-    second: umbrella-lvl_0
+      213: 440541326243644535
+    second: umbrella-lvl 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: umbrella-lvl_0
+      name: umbrella-lvl 1_0
       rect:
         serializedVersion: 2
         x: 11
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64d2814d42374f850800000000000000
-      internalID: 6409874771669429574
+      spriteID: 774c1ab800e1d1600800000000000000
+      internalID: 440541326243644535
       vertices: []
       indices: 
       edges: []

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b00e58eabdd14964ab6be63166c08f1b
+guid: 71b111ff1c2fdcc4f97e2fe9f509d05f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5788114025351133854
-    second: kite-lvl_0
+      213: -7255196111997102827
+    second: kite-lvl 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: kite-lvl_0
+      name: kite-lvl 1_0
       rect:
         serializedVersion: 2
         x: 13
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9ab2801a03835050800000000000000
-      internalID: 5788114025351133854
+      spriteID: 5151e98639d505b90800000000000000
+      internalID: -7255196111997102827
       vertices: []
       indices: 
       edges: []
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kite-lvl 1_0: -7255196111997102827
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
